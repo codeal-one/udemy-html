@@ -10,7 +10,7 @@
 
 ## Projects
 - [x] HTML Basics
-- [ ] New features in HTML5
+- [x] New features in HTML5
 - [ ] HTML Tables
 - [ ] HTML Forms
 - [ ] Embedding Multimedia
