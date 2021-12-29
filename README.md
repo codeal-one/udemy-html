@@ -5,7 +5,7 @@
 - [x] URL: https://www.udemy.com/course/html-basic-to-advanced
 
 ## Projects
-- [ ] HTML Basics
+- [x] HTML Basics
 - [ ] New features in HTML5
 - [ ] HTML Tables
 - [ ] HTML Forms
