@@ -4,6 +4,8 @@
 [![Heroku Status](https://codeal-one-html.herokuapp.com/heroku.svg?)](https://codeal-one-html.herokuapp.com)
 [![CloudFlare CDN Status](https://codeal-one-html.pages.dev/cloudflare.svg)](https://codeal-one-html.pages.dev)
 
+Demo: https://html.codeal.one
+
 ## Course information
 - [x] Name: HTML5 - From Basics to Advanced level (2021)
 - [x] URL: https://www.udemy.com/course/html-basic-to-advanced
@@ -13,7 +15,7 @@
 - [x] New features in HTML5
 - [x] HTML Tables
 - [x] HTML Forms
-- [ ] Embedding Multimedia
+- [x] Embedding Multimedia
 - [ ] Vector Graphics
 - [ ] Final project
 
