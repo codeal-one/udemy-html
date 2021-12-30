@@ -12,7 +12,7 @@
 - [x] HTML Basics
 - [x] New features in HTML5
 - [x] HTML Tables
-- [ ] HTML Forms
+- [x] HTML Forms
 - [ ] Embedding Multimedia
 - [ ] Vector Graphics
 - [ ] Final project
