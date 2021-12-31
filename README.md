@@ -16,6 +16,6 @@ Demo: https://html.codeal.one
 - [x] HTML Tables
 - [x] HTML Forms
 - [x] Embedding Multimedia
-- [ ] Vector Graphics
+- [x] Vector Graphics
 - [ ] Final project
 
