@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 6px 18px;
+}
+
+header > h1 {
+    font-variant: small-caps;
+    letter-spacing: 6px;
+    text-shadow: 3px 3px 6px #222;
+}
+
+section {
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px 18px;
+    margin: 0 12px;
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+    max-width: 480px;
+}
+
+a:link {
+    text-decoration: none;
+    color: steelblue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: steelblue;
+}
+
+a:hover {
+    text-decoration: none;
+    color: palevioletred;
+}
