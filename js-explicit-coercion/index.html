@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project 3.14: JS Explicit Coercion</title>
+    </head>
+    <body>
+        <pre>
+console.clear();
+
+var mNum = 15;
+console.log(typeof(String(mNum)));
+console.log(typeof(String(true)));
+console.log(typeof(String(-98.10)));
+console.log(typeof(String(null)));
+console.log(typeof(String(undefined)));
+
+console.log(typeof(Number('2')));
+console.log(Number(true), typeof(Number(true)));
+console.log(Number(false), typeof(Number(false)));
+console.log(Number('-98.10'), typeof(Number('-98.10')));
+console.log(Number('Apple'), typeof(Number('Apple')));
+
+console.log(Boolean(1), typeof(Boolean(1)));
+console.log(Boolean(0), typeof(Boolean(0)));
+console.log(Boolean('Apple'), typeof(Boolean('Apple')));
+console.log(Boolean(null), typeof(Boolean(null)));
+console.log(Boolean(undefined), typeof(Boolean(undefined)));
+console.log(Boolean(''), typeof(Boolean('')));
+        </pre>
+        <script>
+            console.clear();
+
+            var mNum = 15;
+            console.log(typeof(String(mNum)));
+            console.log(typeof(String(true)));
+            console.log(typeof(String(-98.10)));
+            console.log(typeof(String(null)));
+            console.log(typeof(String(undefined)));
+            
+            console.log(typeof(Number('2')));
+            console.log(Number(true), typeof(Number(true)));
+            console.log(Number(false), typeof(Number(false)));
+            console.log(Number('-98.10'), typeof(Number('-98.10')));
+            console.log(Number('Apple'), typeof(Number('Apple')));
+            
+            console.log(Boolean(1), typeof(Boolean(1)));
+            console.log(Boolean(0), typeof(Boolean(0)));
+            console.log(Boolean('Apple'), typeof(Boolean('Apple')));
+            console.log(Boolean(null), typeof(Boolean(null)));
+            console.log(Boolean(undefined), typeof(Boolean(undefined)));
+            console.log(Boolean(''), typeof(Boolean('')));         
+        </script>
+    </body>
+</html>
