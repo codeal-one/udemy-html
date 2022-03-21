@@ -38,3 +38,28 @@ a:hover {
     text-decoration: none;
     color: palevioletred;
 }
+
+pre {
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px 18px;
+    margin: 0 6px 12px 6px;
+    background-color: lightgrey;
+    border: 1px solid #555;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    max-width: 480px;
+    margin-top: 10px;
+}
+
+pre::before {
+    content: 'JavaScript';
+    position: relative;
+    top: -15px;
+    display: block;
+    padding: 2px 6px;
+    width: 80px;
+    border: 1px solid #333;
+    border-radius: 2px;
+    background-color: gray;
+}
