@@ -5,6 +5,7 @@
         <link href="/index.css" rel="stylesheet" type="text/css">
     </head>
     <body>
+        <h1>JavaScript - Implicit Coercion</h1>
         <pre>
 console.clear();
 
@@ -42,7 +43,9 @@ if (undefined) { console.log('True'); } else { console.log('False'); }
 if ('') { console.log('True'); } else { console.log('False'); }
 if ('Rocket' + 10) { console.log('True'); } else { console.log('False'); }
 if (10 - '10') { console.log('True'); } else { console.log('False'); }
-
+        </pre>
+        <h1>JavaScript - Explicit Coercion</h1>
+        <pre>
 // Explicit Coercion
 var mNum = 15;
 console.log(typeof(String(mNum)));
